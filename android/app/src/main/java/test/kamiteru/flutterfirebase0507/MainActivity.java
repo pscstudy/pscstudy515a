@@ -1,4 +1,4 @@
-package test.kamiteru.flutterfirebase0507;
+package test.pscstudy515a;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
